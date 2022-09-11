@@ -1,0 +1,17 @@
+h2 {
+  justify-content: center;
+  text-align: center;
+}
+.container {
+  height: 100%;
+  width: 100%;
+}
+mat-card {
+  height: 200px;
+  width: 300px;
+  margin-left: 40%;
+}
+
+.icon-display {
+  transform: scale(2);
+}

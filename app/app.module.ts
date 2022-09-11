@@ -16,7 +16,7 @@ import { ScanModule } from './scan/scan.module';
   declarations: [
     AppComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
   ],
   imports: [
     BrowserModule,
